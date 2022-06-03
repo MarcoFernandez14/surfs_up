@@ -1,5 +1,5 @@
 # surfs_up
-Weather analysis
+Oahu Weather analysis
 
 ### Environment
 Python 3.7.3  
@@ -27,8 +27,16 @@ The data analyzed presents Ohau as a sustainable year-round location for a surf-
 ![Jun_Temp_Plot](https://github.com/MarcoFernandez14/surfs_up/blob/main/June%20Temperature%20plot.png)
 ![Dec_Temp_Plot](https://github.com/MarcoFernandez14/surfs_up/blob/main/December%20Temperature%20plot.png)
 
+## Summary
+The conclusion is that Oahu is a great place to invest in a surf-and-ice cream shop. The weather is nice year-round. The lows and highs temperatures are rare.  
+Also, looking at the precipitation data, we can observe that the average rainfall is light which supports further the investment.  
 
-* Less than 3/4 of daily rainfall measurements, over a three year period, show less than 0.14 inches. This data, modified from work done in the module, shows that average rainfall is fairly light. This means that you don't have to worry about bad weather at the beach or your triple-scoop sundae having an unwanted topping of rain drops.
+I generated additional queries to obtain June and December precipitation merged statistics as below.  
+![Precipitation](https://github.com/MarcoFernandez14/surfs_up/blob/main/Precipitation.png)
 
+To gather more weather data, we cloud analyze:  
+- Precipitation.  
+- Other months than June and December to better identify weather seasonality.  
+- How the elevation relates with average temperature and precipitation.  
+- If we add access to the data, wind speed is an important piece of information for surfing.  
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
