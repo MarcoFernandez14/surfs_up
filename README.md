@@ -14,15 +14,15 @@ The purpose of this analysis is to analyze weather data (mainly precipitation an
 The investor is specifically concerned about the weather in Oahu for the months of June and December. The investor wants determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results
-The data analyzed presents Ohau as a sustainable year-round location for a surf-and-ice cream business.
+The data analyzed presents Oahu as a sustainable year-round location for a surf-and-ice cream business.
 
-* Summer (June) and winter (December) average temparatures are between 71 and 75 degrees. This is a great average temperature for surf and ice-cream.  
+* Summer (June) and winter (December) average temperatures are between 71 and 75 degrees. This is a great average temperature for surf and ice-cream.  
 * Summer (June) and winter (December) temperatures variation (std) is less than 4 degrees. This means that the temperature isn't highly variable which suggests that Oahu is sustainable year-round location for surf and ice cream.  
 
 ![Jun_Temp_Desc](https://github.com/MarcoFernandez14/surfs_up/blob/main/June%20Temperature.png)
 ![Dec_Temp_Desc](https://github.com/MarcoFernandez14/surfs_up/blob/main/December%20Temperature.png)
 
-* Even if the minimum and maximum temperatures could be a problem, the frecuency or quantity of observations of these temperatures is very low.
+* Even if the minimum and maximum temperatures could be a problem, the frequency or quantity of observations of these temperatures is very low.
 
 ![Jun_Temp_Plot](https://github.com/MarcoFernandez14/surfs_up/blob/main/June%20Temperature%20plot.png)
 ![Dec_Temp_Plot](https://github.com/MarcoFernandez14/surfs_up/blob/main/December%20Temperature%20plot.png)
